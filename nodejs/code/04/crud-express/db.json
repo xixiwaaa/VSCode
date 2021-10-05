@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "法外狂徒张三",
+      "gender": "0",
+      "hobbies": "犯罪",
+      "age": "41"
+    },
+    { "id": 4, "name": "张三", "gender": 0, "hobbies": "睡觉、吃饭" },
+    { "id": 5, "name": "张三", "gender": 0, "hobbies": "睡觉、吃饭" },
+    { "id": 6, "name": "张三", "gender": 0, "hobbies": "睡觉、吃饭" },
+    { "name": "xixi", "gender": "1", "age": "12", "hobbies": "yan", "id": 7 }
+  ]
+}
